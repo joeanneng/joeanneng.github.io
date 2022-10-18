@@ -3,11 +3,9 @@ logo: "images/Joe%20Ann-modified.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <p align="center"><a href="https://www.linkedin.com/in/engjoeann/">LinkedIn</a> |
   <a href="http://linktr.ee/izjoeann/">Linktree</a></p>
-  <br>
   I'm a Business Intelligence Analyst with 3 years experience dedicated to helping business to make the most accurate decisions out of my insights.
   <br><br>
   Specialised in data modelling, analysis of quality metric frameworks, dashboards development and trend analysis using SQL and Python.
-  <br><br>
   
   
 theme: jekyll-theme-minimal
